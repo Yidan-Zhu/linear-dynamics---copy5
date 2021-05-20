@@ -7,3 +7,5 @@ The graphs on the left-hand-side show the eigenvalues and eigenvectors of the ma
 Ticking the "vector field" box would show the direction of the state change with time.
 
 <img src="https://github.com/Yidan-Zhu/linear-dynamics---copy5/blob/main/pic1.png?raw=true" width=600 height=440>
+
+source code in directory: 2d linear dynamics - copy5
