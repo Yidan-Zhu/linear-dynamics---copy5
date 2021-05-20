@@ -2,4 +2,4 @@
 
 visit: https://yidan-zhu.github.io/linear-dynamics---copy5/
 
-<img src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/visual%20learners.jpg">
+<img src="https://github.com/Yidan-Zhu/linear-dynamics---copy5/blob/main/pic1.png?raw=true">
